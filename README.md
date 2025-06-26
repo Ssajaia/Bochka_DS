@@ -22,5 +22,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Acknowledgments
 Inspired by Java's arrayList<T> implementation 
-
-Special thanks to the C# language team for generics support)
