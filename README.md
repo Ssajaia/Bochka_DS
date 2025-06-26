@@ -22,3 +22,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Acknowledgments
 Inspired by Java's arrayList<T> implementation 
+
+|!| This DS is created for fun and is not recommended for real time usage
