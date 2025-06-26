@@ -2,7 +2,7 @@
 https://img.shields.io/badge/.NET-6.0-purple
 https://img.shields.io/badge/license-MIT-green
 
-Bochka (Russian for "barrel") is a generic collection data structure implementation in C# that provides array-like functionality with dynamic resizing and additional features.
+Bochka is a generic collection data structure implementation in C# that provides array-like functionality with dynamic resizing and additional features.
 
 Features
 🧩 Generic implementation works with any data type
@@ -23,6 +23,6 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
-Inspired by .NET's List<T> implementation
+Inspired by Java's arrayList<T> implementation 
 
 Special thanks to the C# language team for generics support)
