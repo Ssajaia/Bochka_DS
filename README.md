@@ -1,4 +1,4 @@
-(https://img.shields.io/badge/C%2523-10.0-blue
+https://img.shields.io/badge/C%2523-10.0-blue
 https://img.shields.io/badge/.NET-6.0-purple
 https://img.shields.io/badge/license-MIT-green
 
