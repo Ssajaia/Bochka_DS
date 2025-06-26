@@ -1,6 +1,5 @@
 
 https://img.shields.io/badge/.NET-6.0-purple
-https://img.shields.io/badge/license-MIT-green
 
 Bochka is a generic collection data structure implementation in C# that provides array-like functionality with dynamic resizing and additional features.
 
